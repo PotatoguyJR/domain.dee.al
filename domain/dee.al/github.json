@@ -78,5 +78,9 @@
   "target": "lakhani-palak-dev.github.io"
 
 }
-    
+    {
+"koneksi": "CNAME",
+"hostku": "math-break",
+"target": "math-break.com" 
+}
 ]
